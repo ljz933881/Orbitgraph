@@ -1,0 +1,9 @@
+{
+  "id": "orbitgraph",
+  "name": "Orbitgraph",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "A dual-ring concentric knowledge graph for Obsidian: inner ring for topics, outer ring for instances. Canvas + d3-force rendering with optional answering / grading integration.",
+  "author": "liliuxiao1x",
+  "isDesktopOnly": false
+}
